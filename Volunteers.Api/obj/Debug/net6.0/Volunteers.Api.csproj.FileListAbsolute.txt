@@ -1,0 +1,249 @@
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.AssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\appsettings.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.exe
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.deps.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.runtimeconfig.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Core.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Core.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Data.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\volunteers.Service.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.Volunteers.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Volunteers.Api.props
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Volunteers.Api.props
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Volunteers.Api.props
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\scopedcss\bundle\Volunteers.Api.styles.css
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.CopyComplete
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\refint\Volunteers.Api.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.genruntimeconfig.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\ref\Volunteers.Api.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\CsvHelper.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\appsettings.Development.json
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\appsettings.json
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.exe
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.deps.json
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.runtimeconfig.json
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\CsvHelper.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Humanizer.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Collections.Immutable.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Core.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Data.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\volunteers.Service.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Core.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Data.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\volunteers.Service.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.AssemblyReference.cache
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.AssemblyInfoInputs.cache
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.AssemblyInfo.cs
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.CoreCompileInputs.cache
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.Volunteers.Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Volunteers.Api.props
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Volunteers.Api.props
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Volunteers.Api.props
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\scopedcss\bundle\Volunteers.Api.styles.css
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.CopyComplete
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\refint\Volunteers.Api.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.genruntimeconfig.cache
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\ref\Volunteers.Api.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\appsettings.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.exe
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.deps.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.runtimeconfig.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Api.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\CsvHelper.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Humanizer.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Core.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Core.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\Volunteers.Data.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\bin\Debug\net6.0\volunteers.Service.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.AssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.Volunteers.Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Volunteers.Api.props
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Volunteers.Api.props
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Volunteers.Api.props
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\scopedcss\bundle\Volunteers.Api.styles.css
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.csproj.CopyComplete
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\refint\Volunteers.Api.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\Volunteers.Api.genruntimeconfig.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Api\obj\Debug\net6.0\ref\Volunteers.Api.dll

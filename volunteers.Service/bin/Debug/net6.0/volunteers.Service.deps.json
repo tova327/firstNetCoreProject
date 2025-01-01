@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "volunteers.Service/1.0.0": {
+        "dependencies": {
+          "Volunteers.Core": "1.0.0"
+        },
+        "runtime": {
+          "volunteers.Service.dll": {}
+        }
+      },
+      "Volunteers.Core/1.0.0": {
+        "runtime": {
+          "Volunteers.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "volunteers.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Volunteers.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

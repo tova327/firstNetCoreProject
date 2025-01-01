@@ -1,0 +1,45 @@
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.deps.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\Volunteers.Core.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\Volunteers.Core.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.AssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.CopyComplete
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\refint\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\ref\volunteers.Service.dll
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.deps.json
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.dll
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\Volunteers.Core.dll
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\Volunteers.Core.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.AssemblyReference.cache
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.AssemblyInfoInputs.cache
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.AssemblyInfo.cs
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.CoreCompileInputs.cache
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.CopyComplete
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.dll
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\refint\volunteers.Service.dll
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\ref\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.deps.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\volunteers.Service.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\Volunteers.Core.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\bin\Debug\net6.0\Volunteers.Core.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.AssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.csproj.CopyComplete
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\refint\volunteers.Service.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\volunteers.Service.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\volunteers.Service\obj\Debug\net6.0\ref\volunteers.Service.dll

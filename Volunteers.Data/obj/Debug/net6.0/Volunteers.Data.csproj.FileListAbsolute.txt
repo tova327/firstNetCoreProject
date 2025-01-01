@@ -1,0 +1,57 @@
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.deps.json
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.dll
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.pdb
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.AssemblyInfo.cs
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.dll
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\refint\Volunteers.Data.dll
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.pdb
+D:\Users\User\Desktop\צביה\הוראה\שרת לקוח\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\ref\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.AssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\refint\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.deps.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Core.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Core.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.CopyComplete
+D:\Users\User\Desktop\טובי\2025\dotNetCore\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\ref\Volunteers.Data.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.deps.json
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Core.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Core.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.AssemblyReference.cache
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.AssemblyInfoInputs.cache
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.AssemblyInfo.cs
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.CoreCompileInputs.cache
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.CopyComplete
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\refint\Volunteers.Data.dll
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.pdb
+E:\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\ref\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.deps.json
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Data.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Core.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\bin\Debug\net6.0\Volunteers.Core.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.AssemblyInfo.cs
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.csproj.CopyComplete
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\refint\Volunteers.Data.dll
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\Volunteers.Data.pdb
+D:\Users\User\Desktop\טובי\2025\dotNetCore\last .Net\Volunteers.Api\Volunteers.Data\obj\Debug\net6.0\ref\Volunteers.Data.dll
