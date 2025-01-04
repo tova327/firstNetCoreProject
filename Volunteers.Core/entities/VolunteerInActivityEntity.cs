@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,7 +12,11 @@ namespace Volunteers.Core.entities
         public int Id { get; private set; }
 
         public int VolunteerId { get; set; }
+        //[ForeignKey("VolunteerId")]
+        public UserEntity Volunteer { get; set; }   
         public int ActivityId { get; set; }
+        //[ForeignKey("ActivityId")]
+        public ActivityEntity Activity { get; set; }
         public int MonthParticipate { get; set; }
         public int ManagerSatisfaction { get; set; }
         public int VolunteerSatisfaction { get; set; }

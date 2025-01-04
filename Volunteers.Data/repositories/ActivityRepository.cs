@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Volunteers.Core.entities;
 using Volunteers.Core.InterfaseRepository;
-
+using Microsoft.EntityFrameworkCore;
 namespace Volunteers.Data.repositories
 {
     public class ActivityRepository:IGenericRepository<ActivityEntity>

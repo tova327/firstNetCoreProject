@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Cors.Infrastructure;
+using System.Text.Json.Serialization;
 using volunteers.Service;
 using Volunteers.Core.entities;
 using Volunteers.Core.InterfaceService;
@@ -29,8 +30,12 @@ namespace Volunteers.Api
             builder.Services.AddDbContext<DataContext>();
             //builder.Services.AddSingleton<DataContext>();
 
-            
-            builder.Services.AddControllers();
+
+            builder.Services.AddControllers().AddJsonOptions(options =>
+            {
+                options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+                options.JsonSerializerOptions.WriteIndented = true;
+            });
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

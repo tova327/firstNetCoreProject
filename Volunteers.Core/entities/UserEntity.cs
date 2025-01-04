@@ -12,6 +12,7 @@ namespace Volunteers.Core.entities
 
     public enum ELanguage { English, Hebrew }
     public enum EType { Worker, Volunteer, OrgManager }
+        
     public class UserEntity
     {
 
@@ -27,7 +28,10 @@ namespace Volunteers.Core.entities
         public ELanguage Language { get; set; }
         public EType Type { get; set; }
         public string Pin { get; set; }
+        //public List<VolunteerInActivityEntity> VolunteerInActivity { get; set; }
 
+        //public List<OrgEntity> UnderControlOrgs { get; set; }   
+        //public List<ActivityEntity> UnderControlActivities { get; set; }     
         public UserEntity(int id, string name, string tz, string email, string phone, DateTime birthDate, ESex sex, string? lovedBranch, EPermissions permissions, ELanguage language, EType type, string pin)
         {
             Id = id;

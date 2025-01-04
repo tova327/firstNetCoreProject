@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -21,9 +22,12 @@ namespace Volunteers.Core.entities
         public ESize Size { get; set; }
         public string HeadAdress { get; set; }
         public int ManagerId { get; set; }
+        //[ForeignKey("ManagerId")]
+        public UserEntity Manager { get; set; } 
         public string PhoneToContact { get; set; }
         public string OrgEmail { get; set; }
-        public List<ActivityEntity> Activities { get; set; }
+        //public List<ActivityEntity> Activities { get; set; }
+
         public OrgEntity(int id, string tz, string name, string fieldOfActivity, int numberOfVolunteers, string color, string conditions, ESize size, string headAdress, int managerId, string phoneToContact, string orgEmail)
         {
             Id = id;
@@ -36,7 +40,8 @@ namespace Volunteers.Core.entities
             Size = size;
             HeadAdress = headAdress;
             ManagerId = managerId;
-            PhoneToContact = phoneToContact;
+            
+        PhoneToContact = phoneToContact;
             OrgEmail = orgEmail;
         }
     }

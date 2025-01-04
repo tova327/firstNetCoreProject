@@ -22,10 +22,14 @@ namespace Volunteers.Core.entities
         public int ExistVolunteers { get; set; }
 
         public int ManagerId { get; set; }
-        
+        //[ForeignKey("ManagerId")]
+        //public UserEntity Manager { get; set; } 
+
+        //public List<VolunteerInActivityEntity> VolunteerInActivity { get; set; }    
+
         public int OrgId { get; set; }
-        [ForeignKey("OrgId")]
-        public OrgEntity Org { get; set; }  
+        //[ForeignKey("OrgId")]
+        //public OrgEntity Org { get; set; }  
         public ActivityEntity(int id, string name, DateTime date, string town, string adress, string conditions, int neededVolunteers, int existVolunteers, int managerId, int orgId)
         {
             Id = id;
